@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an enthusiastic web developer and engineering 
 
 - 🌱 I’m currently learning advanced web development and fullstack technologies.
 - 🎓 I'm an engineering student, graduating in three years.
-- 💼 I'm actiively learning new tech.
+- 💼 I'm actively learning new tech.
 - 💻 I have experience in Python, Django, JavaScript, MySQL, React and many more.
 - 📚 In my free time, I enjoy wathcing movies and working on personal projects.
 
@@ -16,7 +16,7 @@ Here are some of my notable projects:
 
 ### [Restaurant Booking System](https://github.com/Ataa17/littleLemon)
 
-A Django-based API for managing restaurant bookings and menu items with CRUD operations a.
+A Django-based API for managing restaurant bookings and menu items with CRUD operations and user management  .
 
 ### [Moody](https://github.com/Ataa17/moody)
 A react based web app that helps you look for movies or series
@@ -24,14 +24,15 @@ A react based web app that helps you look for movies or series
 ### [ResumeBuilder](https://github.com/Ataa17/ResumeBuilder-Web-app)
 I contributed to this react app which allows users to create resumes by just submitting forms
 
-
+### [Shoesy](https://github.com/Ataa17/shoesy)
+Shoesy is a frontend SPA built using react and tailwindcss which represents a website for e-commerce shoe shop.
 ## Skills
 
 - **Languages:** Python, JavaScript, SQL, Java, C++
-- **Frameworks:** Django, Django Rest Framework
-- **Libraries** React , bootstrap
+- **Frameworks:** Django, Django Rest Framework , tailwindcss, bootstrap
+- **Libraries** React , react-router , formik
 - **Tools:** Git, Docker, Figma
-- **Other:** Web Development, API Development, Database Management
+- **Other:** Web Development, API Development, Database Management , Ui/Ux Design
 
 ## Get in Touch
 
