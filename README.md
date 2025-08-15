@@ -40,8 +40,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Data Scie
 
 ## 📚 Featured Projects
 
-### 🌍 [LSTM Forecasting for CO₂ Emissions](https://github.com/Ataa17/co2)
-> Used **LSTM** for time series forecasting of Tunisia's **CO₂ emissions**. Includes anomaly detection with **Isolation Forest**, preprocessing pipelines, FastAPI to serve predictions and insightful visualizations using grafana.
 
 ### 🧠 [PPP Face Recognition System](https://github.com/Ataa17/ppp)
 > A **face recognition system** developed for the personnal professional project class,comparing multiple approaches using OpenCV and a custom-trained model, deepface...  — supports real-time face detection and recognition from webcam input.
