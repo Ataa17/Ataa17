@@ -1,12 +1,12 @@
 # Hi there, I'm Ataa Mars 👋
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Data Science Enthusiast**, currently a **Networks & Telecommunications Engineering student at INSAT**. I love building digital experiences and using data to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **FullStack ** and **AI engineer**, currently a **Networks & Telecommunications Engineering student at INSAT**. I love building digital experiences and using data to solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Fourth-year Engineering Student** @ INSAT (Graduating in 2027)  
+- 🎓 **Final-year Engineering Student** @ INSAT (Graduating in 2027)  
 - 🌐 Evolving from **Full-Stack Development** to **Data Science & AI**
 - 🧠 Curious about **machine learning**, **time series forecasting**, and **computer vision**
 - 🛠️ Always working on side projects to sharpen my skills
@@ -41,22 +41,30 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Data Scie
 ## 📚 Featured Projects
 
 
-### 🧠 [PPP Face Recognition System](https://github.com/Ataa17/ppp)
+###  [PPP Face Recognition System](https://github.com/Ataa17/ppp)
 > A **face recognition system** developed for the personnal professional project class,comparing multiple approaches using OpenCV and a custom-trained model, deepface...  — supports real-time face detection and recognition from webcam input.
 
-### 🧹 [StudentsDC_EDA](https://github.com/Ataa17/StudentsDC_EDA)
+###  [Computer vision based VLC Controls](https://github.com/Ataa17/VLC-Controls)
+> A **computer vision** application that uses **OpenCV** and **MediaPipe** to recognize hand gestures through a webcam.  
+It translates gestures into VLC controls such as play/pause, volume adjustment, and 10-second seeking.
+
+###  [CreatorHub : Social media management platform](https://github.com/Ataa17/frameworks)
+> **CreatorHub** is a **full-stack SaaS platform** that allows content creators, influencers, and marketing teams to manage and schedule social media posts across multiple platforms from a unified dashboard.
+It includes authentication, OAuth-based social media integration, post scheduling, background job processing, email services, user management, and analytics
+
+###  [StudentsDC_EDA](https://github.com/Ataa17/StudentsDC_EDA)
 > Data cleaning and exploratory analysis of student performance data using **Pandas**, **Matplotlib**, and **Seaborn**. Reduced memory usage by 97% and created clear visual insights.
 
-### 📅 [Restaurant Booking System](https://github.com/Ataa17/littleLemon)  
+###  [Restaurant Booking System](https://github.com/Ataa17/littleLemon)  
 > Django REST API that handles restaurant bookings, user roles, and menu items. Implements robust CRUD functionality and authentication.
 
-### 🎥 [Moody](https://github.com/Ataa17/moody)  
+###  [Moody](https://github.com/Ataa17/moody)  
 > A movie/series discovery app built with React — search, filter, and explore content with an intuitive UI.
 
-### 📄 [ResumeBuilder](https://github.com/Ataa17/ResumeBuilder-Web-app)  
+###  [ResumeBuilder](https://github.com/Ataa17/ResumeBuilder-Web-app)  
 > A resume builder web app — fill out forms and get a professionally formatted CV instantly.
 
-### 👟 [Shoesy](https://github.com/Ataa17/shoesy)  
+###  [Shoesy](https://github.com/Ataa17/shoesy)  
 > E-commerce front-end app for a fictional shoe brand. Built with React + TailwindCSS, fully responsive with a clean layout.
 
 
