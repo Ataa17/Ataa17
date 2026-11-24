@@ -40,6 +40,8 @@ Welcome to my GitHub profile! I'm a passionate **FullStack ** and **AI engineer*
 
 ## 📚 Featured Projects
 
+###  [Tunisian Derja Sentiment Classifier](https://github.com/Ataa17/text-classifier)
+> A **binary sentiment analysis system for Tunisian Derja** that leverages TF-IDF and fine-tuned BERT models to classify social media comments as positive or negative across Arabic, Arabizi, and French code-switching.
 
 ###  [PPP Face Recognition System](https://github.com/Ataa17/ppp)
 > A **face recognition system** developed for the personnal professional project class,comparing multiple approaches using OpenCV and a custom-trained model, deepface...  — supports real-time face detection and recognition from webcam input.
